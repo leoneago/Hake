@@ -1,5 +1,5 @@
 # Hake
-These are the backbone scripts used for the [STACKS](https://catchenlab.life.illinois.edu/stacks/) analyses in the European Hake paper: 
+These are the backbone scripts used for the [STACKS](https://catchenlab.life.illinois.edu/stacks/) analyses in the European Hake, Merluccius merluccius, paper: 
 ##### Agostino Leone, Paula Álvarez, Dorleta García, Fran Saborido-Rey, Naiara Rodriguez-Ezpeleta, Genome-wide SNP based population structure in European hake reveals the need for harmonizing biological and management units, ICES Journal of Marine Science, 76(7):2260–2266. doi: [https://doi.org/10.1093/icesjms/fsz161](https://doi.org/10.1093/icesjms/fsz161)
 
 Raw sequences are available at NCBI SRA
