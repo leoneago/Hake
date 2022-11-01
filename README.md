@@ -1,5 +1,5 @@
 # Hake
-These are the backbone scripts used for the [STACKS](https://catchenlab.life.illinois.edu/stacks/) analyses of the European Hake, ***Merluccius merluccius***.
+Back-bone scripts used for the [STACKS](https://catchenlab.life.illinois.edu/stacks/) analyses of the European Hake, ***Merluccius merluccius***.
 Please rely on manuscript's M&Ms
 
 Paper: 
