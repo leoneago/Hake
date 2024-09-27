@@ -1,5 +1,6 @@
 # Hake
 Back-bone scripts used for the population genomics analysis of the European Hake, ***Merluccius merluccius***, using [STACKS](https://catchenlab.life.illinois.edu/stacks/).
+
 Please rely on manuscript's M&M parameters:
  
 ##### Leone, A., Álvarez, P., García, D., Saborido-Rey, F., Rodriguez-Ezpeleta, N. (2019). Genome-wide SNP based population structure in European hake reveals the need for harmonizing biological and management units, _ICES Journal of Marine Science_, 76(7):2260–2266. doi: [https://doi.org/10.1093/icesjms/fsz161](https://doi.org/10.1093/icesjms/fsz161)
