@@ -1,5 +1,5 @@
 # Hake
-Back-bone scripts used for the population genomics analysis of the European Hake, ***Merluccius merluccius***, using [STACKS](https://catchenlab.life.illinois.edu/stacks/).
+Back-bone scripts used for the RADseq population genomics analysis of the European Hake, ***Merluccius merluccius***, using [STACKS](https://catchenlab.life.illinois.edu/stacks/).
 
 Please rely on manuscript's M&M parameters:
  
